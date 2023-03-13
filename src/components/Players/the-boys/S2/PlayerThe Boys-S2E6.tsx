@@ -1,8 +1,8 @@
 import { PlayerPage } from "../../../Player";
 
-import Actor1 from '../../../../vetores/Atores/karl_Urban.jpg'
+import Actor1 from '../../../../vetores/Atores/Karl_Urban.png'
+import Actor3 from '../../../../vetores/Atores/Jack_Quaid.png'
 import Actor2 from '../../../../vetores/Atores/antony-starr.jpg'
-import Actor3 from '../../../../vetores/Atores/jack-quaid.jpg'
 import Capa1 from '../../../../vetores/Capa/got-capa.jpg'
 import Capa2 from '../../../../vetores/Capa/breaking-bad-capa.jpg'
 import Capa3 from '../../../../vetores/Capa/stranger-things-capa.jpg'
