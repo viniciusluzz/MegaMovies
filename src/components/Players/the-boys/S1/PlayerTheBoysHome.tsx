@@ -1,6 +1,5 @@
 import { PlayerPage } from "../../../Player";
 
-import Actor1 from '../../../../vetores/Atores/karl_Urban.jpg'
 import Actor2 from '../../../../vetores/Atores/antony-starr.jpg'
 import Actor3 from '../../../../vetores/Atores/jack-quaid.jpg'
 import Capa1 from '../../../../vetores/Capa/got-capa.jpg'
@@ -26,7 +25,7 @@ export function PlayerTheBoysHome() {
             featuresCountry="United States"
             featuresAge="+18"
             featuresCategory="Ação"
-            srcActorOne={Actor1}
+            srcActorOne=""
             srcActorTwo={Actor2}
             srcActorThree={Actor3}
             nameActorOne="Karl Urban"
