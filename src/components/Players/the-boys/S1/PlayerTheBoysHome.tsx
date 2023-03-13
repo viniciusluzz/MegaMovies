@@ -2,7 +2,6 @@ import { PlayerPage } from "../../../Player";
 
 import Actor1 from '../../../../vetores/Atores/Karl_Urban.png'
 import Actor2 from '../../../../vetores/Atores/antony-starr.jpg'
-import Actor3 from '../../../../vetores/Atores/jack-quaid.jpg'
 import Capa1 from '../../../../vetores/Capa/got-capa.jpg'
 import Capa2 from '../../../../vetores/Capa/breaking-bad-capa.jpg'
 import Capa3 from '../../../../vetores/Capa/stranger-things-capa.jpg'
@@ -28,7 +27,7 @@ export function PlayerTheBoysHome() {
             featuresCategory="Ação"
             srcActorOne={Actor1}
             srcActorTwo={Actor2}
-            srcActorThree={Actor3}
+            srcActorThree=''
             nameActorOne="Karl Urban"
             nameActorTwo="Antony Starr"
             nameActorThree="Jack Quaid"
