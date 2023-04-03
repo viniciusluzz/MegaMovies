@@ -1,7 +1,7 @@
 
 # Projeto Plataforma de stream Mega Movies 🎥
 
-- 💻 Olá comunidade, a plataforma de stream de vídeos Mega Movies foi pensada por mim como forma de teste para meus conhecimentos. Tentei ao máximo aplicar a esta uma interface moderna e um design interesante, como é de prática em pltaformas de vídeo famosas como a Netflix, HBO Max, etc. Neste projeto utilizei as seguintes tecnologias: HTML, Tailwindcss, React Router Dom, TypeScript e React. 
+- 💻 Olá comunidade, a plataforma de stream de vídeos Mega Movies foi pensada como forma de praticar meus conhecimentos nos fundamentos do React. Tentei ao máximo aplicar a esta uma interface moderna e um design interesante, como é de prática em pltaformas de vídeo famosas como a Netflix, HBO Max, etc. Neste projeto utilizei as seguintes tecnologias: HTML (Linguagem de marcação), Tailwindcss (Framework css usado para estilização), React Router Dom (Utilizado para criação de rotas na aplicação), TypeScript e React. 
 
 <br>
 
